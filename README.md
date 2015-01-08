@@ -7,3 +7,7 @@ This is an example of what you can do with CSS and Javascript(jquery). A robot i
 SQL SP
 
 These are example SQL stored procedures that I have written while working on my companies asbestos database.
+
+SQL Triggers
+
+To overcome some problems and limitations of using MS Access as a front end I have written some triggers to move data around.
