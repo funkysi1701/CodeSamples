@@ -11,3 +11,7 @@ These are example SQL stored procedures that I have written while working on my 
 SQL Triggers
 
 To overcome some problems and limitations of using MS Access as a front end I have written some triggers to move data around.
+
+clouds-js
+
+Examples of jquery functions for a cloud-based storage system
